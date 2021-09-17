@@ -47,3 +47,4 @@ Flowcharts use special shapes to represent different types of actions or steps i
 ![[flowchart.png]]
 
 ## Decision Table
+A decision table is a tabular representation of inputs versus test conditions.
