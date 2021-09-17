@@ -24,7 +24,9 @@ Flow of control in a program is implemented with three basic types of control st
 ## Pseudocode
 Pseudocode, is an artificial and informal language that describes the steps in an algorithm. There is no standard way of writing pseudocode, but **consistency** with the use of your syntax is key.
 
-Common keywords: `IF`, `WHILE`, `INPUT`, `ELSE`, `FOR`. It is to be noted that every control statement should be enclosed correspondingly, such as `IF` with `ENDIF`
+- Common keywords: `IF`, `WHILE`, `INPUT`, `ELSE`, `FOR`. 
+- It is to be noted that every control statement should be enclosed correspondingly, such as `IF` with `ENDIF`
+
 An example of pseudocode will be:
 ```
 FUNCTION functionname(parameters)
