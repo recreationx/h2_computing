@@ -45,10 +45,12 @@ ENDFUNCTION
 ## Flowchart
 Flowcharts use special shapes to represent different types of actions or steps in a process.
 ![Flowchart Symbols](flowchart.png)
-
-
-## Decision Table
-A decision table is a tabular representation of inputs versus test conditions.
-```ad-example
-d
+```ad-note
+Flowchart symbols must be strictly followed
 ```
+## Decision Table
+
+A decision table is a tabular representation of inputs versus test conditions.
+
+An example of a decision table:
+![Decision table](decisiontable.png)
