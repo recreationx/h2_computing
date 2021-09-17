@@ -42,3 +42,8 @@ FUNCTION functionname(parameters)
 ENDFUNCTION
 ```
 
+## Flowchart
+Flowcharts use special shapes to represent different types of actions or steps in a process.
+![[flowchart.png]]
+
+## Decision Table
